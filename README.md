@@ -1,18 +1,17 @@
-![Cover](https://github.com/nephcode/underconstruction/blob/main/images/github/githubReadmeHeader.png)
+![Cover](https://kpkfzczpavanzocxzyta.supabase.co/storage/v1/object/public/oc-react/readme-header-oc-react-10.png)
 
 <!-- ∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴ -->
 
-# UNDERCONSTRUCTION
+# LEARN @ HOME
 
-Personal template first init
+AGILE PROJECT
 
 ## PROJECT DELIVERIES
 
-| WHAT FOR               | WHEN         |
-| :--------------------- | ------------ |
-| Deadline MVP           | `18-03-2024` |
-| Deadline CERTIFICATION | `15-04-2024` |
-
+| WHAT FOR               | WHEN   |
+| :--------------------- | ------ |
+| Deadline MVP           | `2024` |
+| Deadline CERTIFICATION | `2024` |
 
 ## INFORMATIONS
 
@@ -42,4 +41,4 @@ git branch release
 
 ```
 
-![Cover](https://github.com/nephcode/underconstruction/blob/main/images/github/githubReadmeFooter.png)
+![Cover](https://kpkfzczpavanzocxzyta.supabase.co/storage/v1/object/public/oc-react/readme-footer-oc-react-10.png)
