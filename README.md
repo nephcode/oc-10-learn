@@ -25,20 +25,19 @@ AGILE PROJECT
 | :------- | --------------- | :---------------: | ------- | :-----: |
 | Nephelim | Head of concept | Underconstruction | #       |   YES   |
 
-## TECHNO
+## OBJECTIFS
 
-| TECHNO   | SPEC   |
-| :------- | ------ |
-| FRONTEND | `SASS` |
+- Structurer un wireframe sur papier
+- Construire un wireframe avec Figma
+- Créer une maquette avec Figma
 
-## RUNNING THE APPS
+## COURSES
 
-Create branch
-
-```
-git branch dev
-git branch release
-
-```
+| COURSES             | URL                                                                                                                        |
+| :------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| Agile               | [Gestion de projet Agile](https://openclassrooms.com/fr/courses/4507926-initiez-vous-a-la-gestion-de-projet-agile)         |
+| Projet Informatique | [Gestion de projet informatique](https://openclassrooms.com/fr/courses/4192086-gerez-votre-projet-informatique-facilement) |
+| Cahier des charges  | [Cahier des charges fonctionnel](https://openclassrooms.com/fr/courses/6739646-realisez-un-cahier-des-charges-fonctionnel) |
+| Figma               | [Créez une maquette web avec Figma](https://openclassrooms.com/fr/courses/7342806-creez-une-maquette-web-avec-figma)       |
 
 ![Cover](https://kpkfzczpavanzocxzyta.supabase.co/storage/v1/object/public/oc-react/readme-footer-oc-react-10.png)
