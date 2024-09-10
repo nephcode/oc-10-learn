@@ -20,6 +20,7 @@ AGILE PROJECT
 | GHERKIN | [Rédiger en Gherkin](https://www.wefiit.com/blog/rediger-en-gherkin)                       |
 | KANBAN  | [Github Project](https://github.com/users/nephcode/projects/4/views/1)                     |
 | FIGMA   | [Figma Learn@home](https://www.figma.com/design/sfAvb60yDeaE9D6JczvnrN/oc-10-Learn%40home) |
+| STORIES | [Figma Learn@home](https://www.figma.com/design/sfAvb60yDeaE9D6JczvnrN/oc-10-Learn%40home) |
 
 | WHO IS   | FOR             |      COMPANY      | CONTACT | DISCORD |
 | :------- | --------------- | :---------------: | ------- | :-----: |
@@ -35,6 +36,14 @@ AGILE PROJECT
   2.Un document PDF contenant les user stories avec critère(s) d’acceptation.
   3.Un document PDF contenant les maquettes du site.
   4.Un document TXT contenant le lien vers le tableau Kanban (Notion, Trello, or GitHub).
+
+## PAGES
+
+- connexion
+- chat
+- calendrier,
+- gestionnaire de tâches
+- tableau de bord
 
 ## COURSES
 
