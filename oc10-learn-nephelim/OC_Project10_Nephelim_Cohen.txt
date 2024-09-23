@@ -1,0 +1,4 @@
+REPO : https://github.com/nephcode/oc-12-learn
+DIAGRAM : https://excalidraw.com/#json=9ZwhGSzdaHRu02-qbpJ6p,zSUH1IPUNQXJQbsxnXBF8A
+KANBAN : https://github.com/users/nephcode/projects/4
+FIGMA : https://www.figma.com/design/sfAvb60yDeaE9D6JczvnrN/oc-10-Learn%40home
