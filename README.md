@@ -21,7 +21,7 @@ AGILE PROJECT
 | KANBAN  | [Github Project](https://github.com/users/nephcode/projects/4/views/1)                     |
 | FIGMA   | [Figma Learn@home](https://www.figma.com/design/sfAvb60yDeaE9D6JczvnrN/oc-10-Learn%40home) |
 | STORIES | [Figma Learn@home](https://www.figma.com/design/sfAvb60yDeaE9D6JczvnrN/oc-10-Learn%40home) |
-|DIAGRAM|	[Excalidraw Learn@Home](https://excalidraw.com/#json=5ufOZ01-20VykgvXP-6y9,87NdycMk1j6o5ZScGTOTbw)|
+|DIAGRAM|	[Excalidraw Learn@Home](https://excalidraw.com/#json=9ZwhGSzdaHRu02-qbpJ6p,zSUH1IPUNQXJQbsxnXBF8A)|
 
 | WHO IS   | FOR             |      COMPANY      | CONTACT | DISCORD |
 | :------- | --------------- | :---------------: | ------- | :-----: |
